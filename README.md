@@ -21,7 +21,7 @@ Você pode contribuir com o projeto da seguinte forma:
 
 - Preencha sua ficha de Colaboração
 
-Envie o sua contribuição por [e-mail para eduardo.santana@ifpb.edu.br](mailto:eduardo.santana@ifpb.edu.br).
+Envie o sua contribuição por e-mail para [eduardo.santana@ifpb.edu.br](mailto:eduardo.santana@ifpb.edu.br).
 
 ## Informações
 

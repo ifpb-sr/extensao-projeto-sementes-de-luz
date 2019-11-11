@@ -18,4 +18,4 @@ Entendemos que para construir uma integração entre a sociedade e o IFPB (campu
 **Reponsável**: [Eduardo de Santana Medeiros Alexandre](mailto:eduardo.santana@ifpb.edu.br)
 **Telefone**: (83) 98108-19 sete sete.
 
-Acesso o site do [IFPB, campus de Santa Rita](https://www.ifpb.edu.br/santarita)
+Acesso o site do [IFPB - Santa Rita](https://www.ifpb.edu.br/santarita)

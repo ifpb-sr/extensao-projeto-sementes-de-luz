@@ -11,6 +11,8 @@ Entendemos que para construir uma integração entre a sociedade e o IFPB (campu
 3. Lançamento do livro
 4. Publicação do livro
 
+> Após a publicação do livro ele será disponibilizado aqui.
+
 ## Informações
 
 **Reponsável**: [Eduardo de Santana Medeiros Alexandre](mailto:eduardo.santana@ifpb.edu.br)

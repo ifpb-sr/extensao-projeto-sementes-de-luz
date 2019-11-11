@@ -1,4 +1,4 @@
-![](http://www.ifpb.edu.br/imagens/logos/campus-santa-rita)
+![](https://www.ifpb.edu.br/imagens/logos/campus-santa-rita)
 
 # Sementes de luz: estabelecendo relacionamentos com Santa Rita
 

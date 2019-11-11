@@ -18,7 +18,7 @@ Entendemos que para construir uma integração entre a sociedade e o IFPB (campu
 Você pode contribuir com o projeto da seguinte forma:
 
 1. [Preencha sua Formulário de Cooperação Colaboração](https://forms.gle/WPJnTrnum7uRZZk4A)
-2. Baixe o modelo para contribuição do saberes ([Docx](https://github.com/ifpb-sr/extensao-projeto-sementes-de-luz/raw/master/contribuicao-de-saberes.docx) | [ODT](https://github.com/ifpb-sr/extensao-projeto-sementes-de-luz/raw/master/contribuicao-de-saberes.odt) | [PDF](https://github.com/ifpb-sr/extensao-projeto-sementes-de-luz/raw/master/contribuicao-de-saberes.pdf)). Preencha com sua sabedoria e envie a sua contribuição por e-mail para [eduardo.santana@ifpb.edu.br](mailto:eduardo.santana@ifpb.edu.br).
+2. Baixe o modelo para contribuição do saberes ([Docx](https://github.com/ifpb-sr/extensao-projeto-sementes-de-luz/raw/master/contribuicao-de-saberes.docx) / [ODT](https://github.com/ifpb-sr/extensao-projeto-sementes-de-luz/raw/master/contribuicao-de-saberes.odt) / [PDF](https://github.com/ifpb-sr/extensao-projeto-sementes-de-luz/raw/master/contribuicao-de-saberes.pdf)). Preencha com sua sabedoria e envie a sua contribuição por e-mail para [eduardo.santana@ifpb.edu.br](mailto:eduardo.santana@ifpb.edu.br).
 
 ## Informações
 

@@ -1,3 +1,5 @@
+![](https://www.ifpb.edu.br/imagens/logos/campus-santa-rita)
+
 # Sementes de luz: estabelecendo relacionamentos com Santa Rita
 
 Este projeto tem como propósito estabelecer **relacionamentos** com diversos segmentos da sociedade de Santa Rita (e região), criando parcerias para novas oportunidades de extensão, pesquisa e estágio, além de promover o IFPB nas escolas e fortalecer o contato com os egressos. Planejamos alcançar isso através da produção de um livro, com saberes coletados da sociedade e ilustrações provindas de oficinas de desenho.

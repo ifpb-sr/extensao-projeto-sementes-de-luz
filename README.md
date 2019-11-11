@@ -14,5 +14,5 @@ Entendemos que para construir uma integração entre a sociedade e o IFPB (campu
 ## Informações
 
 **Reponsável**: [Eduardo de Santana Medeiros Alexandre](mailto:eduardo.santana@ifpb.edu.br)
-
+**Telefone**: (83) 98108-19 sete sete.
 

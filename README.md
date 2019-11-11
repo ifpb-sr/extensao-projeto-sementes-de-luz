@@ -13,6 +13,16 @@ Entendemos que para construir uma integração entre a sociedade e o IFPB (campu
 
 > Após a publicação do livro ele será disponibilizado aqui.
 
+## Contribuindo com o projeto
+
+Você pode contribuir com o projeto da seguinte forma:
+
+- Escreva sua contribuição do saberes ([Docx](https://github.com/ifpb-sr/extensao-projeto-sementes-de-luz/raw/master/contribuicao-de-saberes.docx) | [ODT](https://github.com/ifpb-sr/extensao-projeto-sementes-de-luz/raw/master/contribuicao-de-saberes.odt) | [PDF](https://github.com/ifpb-sr/extensao-projeto-sementes-de-luz/raw/master/contribuicao-de-saberes.pdf))
+
+- Preencha sua ficha de Colaboração
+
+Envie o sua contribuição por [e-mail para eduardo.santana@ifpb.edu.br](mailto:eduardo.santana@ifpb.edu.br).
+
 ## Informações
 
 **Reponsável**: [Eduardo de Santana Medeiros Alexandre](mailto:eduardo.santana@ifpb.edu.br)

@@ -20,6 +20,10 @@ Você pode contribuir com o projeto da seguinte forma:
 1. [Preencha o Formulário de Colaboração](https://forms.gle/WPJnTrnum7uRZZk4A)
 2. Baixe o modelo para contribuição do saberes ([Docx](https://github.com/ifpb-sr/extensao-projeto-sementes-de-luz/raw/master/contribuicao-de-saberes.docx) / [ODT](https://github.com/ifpb-sr/extensao-projeto-sementes-de-luz/raw/master/contribuicao-de-saberes.odt) / [PDF](https://github.com/ifpb-sr/extensao-projeto-sementes-de-luz/raw/master/contribuicao-de-saberes.pdf)), preencha e envie a sua contribuição por e-mail para [eduardo.santana@ifpb.edu.br](mailto:eduardo.santana@ifpb.edu.br).
 
+### Egressos
+
+Caso prefiram, [vocês também podem responder através de formulário on-line](https://forms.gle/gYWTp593ABWxy1ts6)
+
 ## Informações
 
 **Reponsável**: [Eduardo de Santana Medeiros Alexandre](mailto:eduardo.santana@ifpb.edu.br)
